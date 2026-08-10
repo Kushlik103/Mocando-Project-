@@ -44,5 +44,5 @@ Double-sided tape / glue / screws (for mounting) | — | — |
 
 
 ## Author
-[Your Name]
-Date: [Project completion date]
+Kushlik Kumar
+Date: 5-08-26
