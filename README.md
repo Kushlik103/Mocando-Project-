@@ -46,3 +46,5 @@ Double-sided tape / glue / screws (for mounting) | — | — |
 ## Author
 Kushlik Kumar
 Date: 5-08-26
+<img width="888" height="1280" alt="WhatsApp Image 2026-08-05 at 11 27 06 PM" src="https://github.com/user-attachments/assets/db2be963-2672-486d-8d37-12ae6859611c" />
+
